@@ -1,0 +1,12 @@
+# Build artifacts
+*.o
+checkin
+checkin.exe
+pcs.dat
+pcs.csv
+*.bak
+temp~~
+bin/
+
+# macOS metadata
+.DS_Store
