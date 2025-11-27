@@ -22,3 +22,5 @@ CLI tool to register equipment check-ins/outs. Supports Spanish/English at runti
 
 ## CI / artifacts
 - GitHub Actions workflow (`.github/workflows/build.yml`) builds on macOS/Linux and cross-compiles Windows on Ubuntu, uploading artifacts per platform.
+- Tag `v*` creates a Release and attaches binaries automatically.
+- Downloads: https://github.com/wilfredor/checkinadmin_console/releases
